@@ -6,9 +6,9 @@ You will need to enter your telegram phone number, api hash and api id which you
 
 Next you will need to update either the single_chat.py (line 66 & line 67) or multiple_chat.py (line 78 & 79) file with your source chat/s id and destination id.
 
-You can then head to https://dashboard.render.com/ (create an account) New > web service
+You can then head to https://dashboard.render.com/ (create an account) New > web service.
 
-Upload files to github and create a repository then link it to render and change root directory to ./Telegram-Chat-Forwording-MT4-Copytrader and 
+Upload files to github and create a repository then link it to render and change root directory to ./Telegram-Chat-Forwording-MT4-Copytrader. 
 
 Build command to pip install -r requirements.txt 
 
